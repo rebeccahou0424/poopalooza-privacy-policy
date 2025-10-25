@@ -1,0 +1,167 @@
+隱私權政策（Privacy Policy）
+
+最後更新：2025-10-25
+適用產品：PooPalooza（屎命感）行動應用程式
+
+感謝您使用 PooPalooza。本政策說明我們如何蒐集、使用、分享與保護您的個人資料，以及您可行使的權利。本政策自發布起適用，並會隨服務調整而更新。
+
+⸻
+
+一、我們是誰
+
+PooPalooza Team（以下稱「我們」）為本 App 的開發與營運團隊。若您對本政策或資料處理有任何疑問，請聯繫：poopalooza.team@gmail.com
+
+⸻
+
+二、我們蒐集哪些資料
+
+我們僅蒐集提供核心功能所必要的資料，主要類別如下（依實際使用功能而定）：
+	1.	使用者主動提供的資料
+
+	•	便便／健康紀錄（如：Bristol 分類、顏色、體感、備註等）
+	•	帳戶基本資訊（若有註冊：暱稱、電子郵件）
+	•	意見回饋與客服往來內容
+
+	2.	媒體與感測資料（可選）
+
+	•	相機／相簿影像：用於糞便影像分析與記錄（拍照即分析）
+	•	位置資訊：用於「廁所地圖」就近搜尋與到點紀錄（前景授權時才會存取）
+
+	3.	使用情境與裝置資料
+
+	•	裝置型號、作業系統版本、App 版本、語言地區
+	•	使用紀錄與事件（例如功能點擊與錯誤崩潰資訊）
+
+敏感性說明：健康相關內容（如糞便影像與分析結果）屬 敏感個資，我們以加密與最小化原則處理，並提供刪除機制（見第七節）。
+
+⸻
+
+三、資料用途（我們如何使用）
+	•	AI 影像分析與分類：以電腦視覺模型（YOLOv8）判定是否為糞便、顏色輔助驗證與 Bristol 分類，產生結構化紀錄與健康指標。
+	•	個人化健康建議：將分析結果與您的紀錄摘要餵入文字生成模型，回傳簡潔、非醫療診斷的日常建議（例如飲水、飲食、作息）。
+	•	地圖與定位服務：提供附近可用廁所查找與到點紀錄。
+	•	使用者體驗與可靠性：偵錯、除錯、統計與服務改進（例如效能優化、介面調整）。
+	•	法令遵循：回應主管機關或權責機關之合法請求。
+
+我們不會將個資出售或出租予第三方，亦不會用於與健康無關的廣告定向。
+
+⸻
+
+四、資料處理位置與第三方服務
+
+為提供上述功能，服務可能使用下列供應商（依實作與地區而異）：
+	•	雲端運算／託管：應用伺服器與資料庫（加密傳輸／存放）
+	•	AI 文字生成：用於產生個人化健康建議（傳送為文字化的分析摘要；影像不會直接送往文字模型）
+	•	地圖服務：提供地理定位與地點資料
+	•	錯誤回報／分析：App 穩定度與體驗改善
+
+所有受託廠商均以合約方式要求依本政策與法律遵循最小必要與保密義務。
+
+⸻
+
+五、是否與第三方分享
+	•	不販售、不出租 個人資料。
+	•	僅在「提供服務必須」或「依法要求」之情況下，與受託處理者或主管機關分享最小必要資料。
+	•	若進行學術研究或產品改良，將以去識別化／彙總化資料進行統計分析。
+
+⸻
+
+六、權限使用說明（Android）
+	•	Camera / Photos：拍照或選取影像以進行健康分析與記錄。
+	•	Location（精確／近似）：提供附近廁所與到點紀錄（僅在您允許時使用）。
+	•	Network：上傳分析請求、同步紀錄、下載模型或建議。
+	•	Storage：快取與離線必要資料。
+
+權限僅於對應功能執行期間存取，您可隨時於系統設定關閉。
+
+⸻
+
+七、資料保存與刪除
+	•	保留期間：
+	•	健康與影像紀錄：預設保留 365 天（或依 App 內設定），逾期將自動去識別或刪除。
+	•	帳戶資料：於帳戶存在期間保留；刪除帳戶即刪除相關個資（依法需更長期間者除外）。
+	•	事件與錯誤日誌：為偵錯用途保留 90–180 天。
+	•	您可以隨時刪除：在 App「設定 → 資料管理／刪除帳號與紀錄」中刪除單筆或全部紀錄；或來信要求協助（需驗證身分）。
+
+⸻
+
+八、資訊安全
+	•	傳輸加密（HTTPS/TLS） 與 靜態加密（包含影像與健康紀錄）。
+	•	依職務身分控管存取權限，並定期稽核與備份。
+	•	以最小化原則設計資料流，僅保留達成功能所需欄位與期間。
+
+⸻
+
+九、兒少保護
+
+本服務不以 13 歲以下兒童為對象。若發現未成年者未經監護人同意提供資料，請立即通知我們，我們將採取刪除或停用等適當措施。
+
+⸻
+
+十、您的權利
+
+依適用法令（包含台灣個資法）您可行使：存取、複製、補充或更正、停止處理、刪除之權利。請來信 poopalooza.team@gmail.com，我們將於合理期間內回覆。
+
+⸻
+
+十一、國際傳輸
+
+資料可能在您所在國以外之地區處理與保存，但我們將確保具備適當的保護措施與契約機制。
+
+⸻
+
+十二、政策更新
+
+我們可能因功能或法規調整而更新本政策；更新後將以 App 內通知或頁面公告方式提示最新版本與生效日期。
+
+⸻
+
+（附錄 A）Google Play「資料安全表單」填寫對照（建議）
+
+供你在 Play Console 的 Data Safety 表單勾選參考，可依實作微調
+
+	•	收集的資料類型
+	•	健康與健身（使用者輸入的便便紀錄、Bristol 分類等）→「已收集、使用於 App 功能」
+	•	相片與影片（糞便影像）→「已收集、使用於 App 功能」
+	•	位置（近似或精確；僅開啟廁所地圖時）→「已收集、使用於 App 功能」
+	•	應用程式效能與診斷（崩潰記錄、診斷）→「已收集、僅用於分析與除錯」
+	•	裝置或其他 ID、App 互動事件 →「已收集、僅用於分析與改善」
+	•	資料處理：已加密傳輸；可要求刪除；不與第三方分享作廣告目的；不出售資料。
+	•	資料是必需嗎？
+	•	影像：僅於使用拍照分析時必需
+	•	位置：僅於使用廁所地圖時必需
+	•	其他：屬提升體驗或可靠性之必要最小範圍
+
+⸻
+
+Privacy Policy (English Summary)
+
+Last Updated: 2025-10-25
+This Privacy Policy explains how PooPalooza collects, uses, shares, and safeguards personal data.
+
+Data We Collect.
+User-provided records (stool logs, notes), optional photos for computer-vision analysis, optional location for toilet map, device/app info, usage and crash logs.
+
+Purpose of Use.
+Provide AI imaging classification and personalized wellness tips (non-diagnostic), nearby toilet search, reliability/analytics, and legal compliance.
+
+Sharing.
+No selling or renting of personal data. Limited sharing with contracted processors to operate the service, or when required by law. Research uses de-identified/aggregated data.
+
+Permissions.
+Camera/Photos (image analysis), Location (toilet map), Network, Storage.
+
+Retention & Deletion.
+Health/photos up to 365 days by default (configurable). Account data kept while the account exists. Crash/analytics logs 90–180 days. In-app deletion and email request supported.
+
+Security.
+Encryption in transit and at rest, role-based access, regular audits.
+
+Children.
+Not directed to children under 13.
+
+Your Rights & Contact.
+Access, correction, deletion. Contact: poopalooza.team@gmail.com.
+
+Changes.
+We may update this Policy and will notify users in-app.
