@@ -5,6 +5,11 @@
 
 感謝您使用 PooPalooza。本政策說明我們如何蒐集、使用、分享與保護您的個人資料，以及您可行使的權利。本政策自發布起適用，並會隨服務調整而更新。
 
+重要聲明：
+本應用程式為教育與健康生活紀錄用途之專題研究作品，非醫療產品。
+PooPalooza 不提供任何醫療診斷、治療或專業健康建議。
+所有分析結果僅供參考，不應作為醫療決策依據。
+
 ⸻
 
 一、我們是誰
@@ -15,7 +20,7 @@ PooPalooza Team（以下稱「我們」）為本 App 的開發與營運團隊。
 
 二、我們蒐集哪些資料
 
-我們僅蒐集提供核心功能所必要的資料，主要類別如下（依實際使用功能而定）：
+我們僅蒐集提供核心功能所必要的資料，我們不會要求使用者提供任何身份證明文件、財務資料或生物識別資訊。主要類別如下（依實際使用功能而定）：
 	1.	使用者主動提供的資料
 
 	•	便便／健康紀錄（如：Bristol 分類、顏色、體感、備註等）
@@ -56,6 +61,7 @@ PooPalooza Team（以下稱「我們」）為本 App 的開發與營運團隊。
 	•	錯誤回報／分析：App 穩定度與體驗改善
 
 所有受託廠商均以合約方式要求依本政策與法律遵循最小必要與保密義務。
+所有資料處理均在合法且安全的雲端環境中進行，且不會跨境傳輸至未經適當保護機制之地區。
 
 ⸻
 
@@ -73,6 +79,7 @@ PooPalooza Team（以下稱「我們」）為本 App 的開發與營運團隊。
 	•	Storage：快取與離線必要資料。
 
 權限僅於對應功能執行期間存取，您可隨時於系統設定關閉。
+本應用程式不會在背景自動存取相機、麥克風或位置權限，僅於使用者主動觸發相關功能時啟用。
 
 ⸻
 
@@ -95,6 +102,7 @@ PooPalooza Team（以下稱「我們」）為本 App 的開發與營運團隊。
 九、兒少保護
 
 本服務不以 13 歲以下兒童為對象。若發現未成年者未經監護人同意提供資料，請立即通知我們，我們將採取刪除或停用等適當措施。
+若使用者年齡未滿 18 歲，建議於家長或監護人同意下使用。
 
 ⸻
 
@@ -138,7 +146,7 @@ Privacy Policy (English Summary)
 
 Last Updated: 2025-10-25
 This Privacy Policy explains how PooPalooza collects, uses, shares, and safeguards personal data.
-
+Disclaimer: This application is a student research project for educational and wellness tracking purposes, not a medical device or diagnostic tool.
 Data We Collect.
 User-provided records (stool logs, notes), optional photos for computer-vision analysis, optional location for toilet map, device/app info, usage and crash logs.
 
